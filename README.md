@@ -1,4 +1,4 @@
-# AI Model for Diabetes Risk Prediction and Early Diagnosis
+ai
 
 ## Overview
 This project presents an AI-based Diabetes Risk Prediction and Early Diagnosis System using Constraint Satisfaction Problem (CSP) techniques. The system analyzes patient health records and identifies diabetes risk levels based on multiple medical constraints and behavioral patterns.
