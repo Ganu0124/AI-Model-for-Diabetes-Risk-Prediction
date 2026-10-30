@@ -1,4 +1,3 @@
-
 # AI Model for Diabetes Risk Prediction and Early Diagnosis.
 
 ## Overview
